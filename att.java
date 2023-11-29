@@ -1,4 +1,4 @@
-// Exemplo de ClasseBase.java
+
 public class ClasseBase {
     public void metodo1() {
         System.out.println("Método 1 executado.");
